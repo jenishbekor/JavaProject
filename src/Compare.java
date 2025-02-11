@@ -44,6 +44,9 @@ public class Compare {
         printsum(23, 45);
         System.out.println( numDivisor(45) );
 
+
+        System.out.println("Hello World");
+
     }
 
 }
