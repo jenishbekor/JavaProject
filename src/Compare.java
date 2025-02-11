@@ -31,6 +31,8 @@ public class Compare {
         StringBuilder sb1 = new StringBuilder("Hello");
         StringBuilder sb2 = new StringBuilder("Hello");
 
+        String s = "Hello";
+
 
         if ( check(sb1,sb2) == true ){
             System.out.println("They are equal");
